@@ -1,0 +1,4 @@
+[submodule "tools/extra"]
+	path = tools/extra
+	url = git://github.com/llvm-mirror/clang-tools-extra.git
+	branch = release_34
